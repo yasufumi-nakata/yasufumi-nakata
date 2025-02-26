@@ -64,7 +64,7 @@ I'm **Yasufumi Nakata (中田康史)**, a student at **Keio University (SFC, Fac
 - 🌍 **Website / ウェブサイト**: [My Personal Website](https://yasufumi.net)  
 - 💼 **LinkedIn / リンクトイン**: [My LinkedIn Profile](https://linkedin.com/yasufuminakata)  
 - 🐦 **Twitter / ツイッター**: [My Twitter Profile](https://twitter.com:yasufumi_nakata)  
-- 📩 **Email / メール**: [yasfuumi@keio.jp](mailto:yasufumi@keio.jp)  
+- 📩 **Email / メール**: [yasufumi@keio.jp](mailto:yasufumi@keio.jp)  
 
 Feel free to reach out and discuss collaborations on neuroscience, AI, or innovative tech projects!  
 ご興味のある方はお気軽にご連絡ください．神経科学，AI，その他革新的テクノロジーのプロジェクトでのコラボレーションを心よりお待ちしております！
