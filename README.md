@@ -47,11 +47,9 @@ I'm **Yasufumi Nakata (中田康史)**, a student at **Keio University (SFC, Fac
 - **Tools & Frameworks / ツール・フレームワーク**  
   - EEG Analysis: **EEGLAB, MNE-Python, BrainFlow**  
     EEG解析ツールとしてEEGLABやMNE-Python，BrainFlowを活用
-  - Cloud & DevOps: **Git, Docker, AWS, Google Cloud**  
-    プロジェクト管理とデプロイメントにGit，Docker，AWS，Google Cloudを利用
-  - Visualization: **Matplotlib, Seaborn, Plotly**  
-    データ可視化にMatplotlib，Seaborn，Plotlyを活用
-
+  - Cloud & DevOps: **Git, Google Cloud**  
+    プロジェクト管理とデプロイメントにGit，Google Cloudを利用
+  
 - **Soft Skills / ソフトスキル**  
   - **Project Management & Leadership / プロジェクトマネジメントとリーダーシップ**  
     チームの運営やプロジェクト推進において実績多数  
