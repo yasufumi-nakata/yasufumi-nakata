@@ -62,7 +62,7 @@ I'm **Yasufumi Nakata (中田康史)**, a student at **Keio University (SFC, Fac
 
 ## 📫 Let's Connect! / お問い合わせ
 - 🌍 **Website / ウェブサイト**: [My Personal Website](https://yasufumi.net)  
-- 💼 **LinkedIn / リンクトイン**: [My LinkedIn Profile](https://linkedin.com/yasufuminakata)  
+- 💼 **LinkedIn / リンクトイン**: [My LinkedIn Profile](https://www.linkedin.com/in/yasufuminakata/)  
 - 🐦 **Twitter / ツイッター**: [My Twitter Profile](https://twitter.com:yasufumi_nakata)  
 - 📩 **Email / メール**: [yasufumi@keio.jp](mailto:yasufumi@keio.jp)  
 
