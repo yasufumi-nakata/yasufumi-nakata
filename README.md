@@ -33,10 +33,10 @@ My work sits across ** neuroscience-related research**.
   - Python, JavaScript, HTML, CSS, MATLAB
 
 - **Data / Research / 研究開発**
-  - Machine Learning, EEG analysis, signal processing, data visualization
+  -  EEG analysis, signal processing, data visualization
 
 - **Tools / 使用ツール**
-  - MNE-Python, EEGLAB, BrainFlow
+  - MNE-Python, EEGLAB, 
   - Git, Google Cloud
 
 ---
