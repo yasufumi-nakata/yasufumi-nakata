@@ -1,10 +1,10 @@
 ### Hi there / こんにちは
 
 I'm **Yasufumi Nakata (中田康史)**, a **master's student at Keio University Graduate School of Media and Governance** and a member of **Aoyama Lab**.
-My work sits across **AI/ML, location-based systems, web development, and neuroscience-related research**.
+My work sits across ** neuroscience-related research**.
 
 慶應義塾大学大学院 政策・メディア研究科の修士課程に在籍し、**青山研究室**に所属しています。
-関心領域は **AI/機械学習、位置情報システム、Web 開発、神経科学関連研究** です。
+関心領域は **経科学関連研究** です。
 
 ---
 
@@ -46,7 +46,7 @@ My work sits across **AI/ML, location-based systems, web development, and neuros
 - **Website**: [yasufumi.net](https://yasufumi.net)
 - **LinkedIn**: [yasufuminakata](https://www.linkedin.com/in/yasufuminakata/)
 - **X**: [@Yasufumi_Nakata](https://x.com/Yasufumi_Nakata)
-- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=wfRnwFAAAAAJ)
+- **Google Scholar**: [Profile](https://scholar.google.co.jp/citations?hl=ja&user=GhMEe8wAAAAJ)
 - **Email**: [yasufumi@keio.jp](mailto:yasufumi@keio.jp)
 
 If you'd like to collaborate on AI, neuroscience, geospatial systems, or product development, feel free to reach out.
