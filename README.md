@@ -3,9 +3,9 @@
 > Mind uploading, neuroscience, and trustworthy research systems.  
 > マインドアップロード、神経科学、信頼できる研究基盤。
 
-I'm a second-year master's student (M2) at the **Keio University Graduate School of Media and Governance** and a member of **Aoyama Lab**. I study how information encoded in the brain—primarily EEG—can be decoded and evaluated, and how that evidence can inform testable approaches to **mind uploading / whole-brain emulation**.
+I'm a second-year master's student (M2) at the **Keio University Graduate School of Media and Governance** and a member of **Aoyama Lab**. My master's research examines how visual stimuli can be decoded and evaluated from brain information, primarily EEG. In parallel, I explore the feasibility of **mind uploading / whole-brain emulation** as a testable research program.
 
-慶應義塾大学大学院 政策・メディア研究科 修士2年（M2）で、**青山研究室**に所属しています。脳情報（主にEEG）から視覚刺激をどこまで解読・評価できるかを研究し、その知見を**マインドアップロード／全脳エミュレーション**の検証可能な課題へつなげています。
+慶應義塾大学大学院 政策・メディア研究科 修士2年（M2）で、**青山研究室**に所属しています。修士研究では、脳情報（主にEEG）から視覚刺激をどこまで解読・評価できるかを検討しています。これとは別に、**マインドアップロード／全脳エミュレーション**の実現可能性を、検証可能な研究課題として探究しています。
 
 ## Current Research / 現在の研究
 
